@@ -1,4 +1,5 @@
 .idea
-data/*
+data/articles.json
+data/img/*
 !data/img/.gitkeep
 !data/.gitkeep
